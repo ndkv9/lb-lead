@@ -36,6 +36,7 @@ const useStyles = makeStyles({
   },
   btn: {
     marginLeft: "30px",
+    height: "48px",
   }
 })
 
